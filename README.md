@@ -50,9 +50,9 @@
 
 ## Install
 
-📦 [Install NodeJS (includes npm)](https://nodejs.org/es/download/)
-📦 [Install Visual Studio Code)](https://code.visualstudio.com/)
-📦 [Install Angular)](https://angular.io/guide/setup-local)
+📦 [Install NodeJS (includes npm)](https://nodejs.org/es/download/) <br>
+📦 [Install Visual Studio Code)](https://code.visualstudio.com/) <br>
+📦 [Install Angular)](https://angular.io/guide/setup-local) <br>
 
 
  
